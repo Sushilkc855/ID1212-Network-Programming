@@ -1,0 +1,4 @@
+To read about SMTP and IMAP protokoll.  /** https://www.one.com/sv/epost/vad-ar-smtp **/
+SMTP står för simple mail transfer protocol.
+IMAP och POP3 är två olika sätt att hämta e-post från mailservrar. 
+
